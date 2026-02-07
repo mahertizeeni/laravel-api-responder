@@ -1,10 +1,10 @@
 <?php
 
-namespace Maher\ApiResponder\Providers;
+namespace mahertizeeni\ApiResponder\Providers;
 
 use Illuminate\Support\ServiceProvider;
-use Maher\ApiResponder\ApiResponder;
-use Maher\ApiResponder\Contracts\ResponderInterface;
+use mahertizeeni\ApiResponder\ApiResponder;
+use mahertizeeni\ApiResponder\Contracts\ResponderInterface;
 
 class ApiResponderServiceProvider extends ServiceProvider
 {

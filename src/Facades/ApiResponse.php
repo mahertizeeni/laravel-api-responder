@@ -1,9 +1,9 @@
 <?php
 
-namespace Maher\ApiResponder\Facades;
+namespace mahertizeeni\ApiResponder\Facades;
 
 use Illuminate\Support\Facades\Facade;
-use Maher\ApiResponder\Contracts\ResponderInterface;
+use mahertizeeni\ApiResponder\Contracts\ResponderInterface;
 
 class ApiResponse extends Facade
 {
